@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 
 
-# PINCHE EDIIWI NO ME PAGO ALB
+# PINCHE EDIIWI NO ME PAGO ALB otra vez
 # === CONFIGURACIÓN ===
 NUM_RESPUESTAS = 5  # Cambia este número a la cantidad de respuestas que quieres
 TIEMPO_MIN = 5    # Tiempo mínimo entre respuestas (en segundos)
